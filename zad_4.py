@@ -181,7 +181,7 @@ class Shaman(Player):
 
 r1 = Rogue('Jack')
 
-r1.take_damage(90)
+r1.take_damage(80)
 r1.check_info()
 
 m1 = Monster('Monster')
